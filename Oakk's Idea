@@ -1,0 +1,3 @@
+console.log('The original plan is a platformer game where you play as a box and can jump.');
+console.log('I wanted to add more to the concept.');
+console.log('What if there was two platforms, you jump on the first then jump on the second to get a flag.');
